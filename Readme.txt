@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+An Emergency Services Website Made By Srishti
 
-Template Name: Vesperr
-Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website Name: Medicure
+Website URL: https://srishtimishra08.github.io/Medicure/
